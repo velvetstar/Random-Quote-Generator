@@ -4,4 +4,4 @@
 
 <p>Enjoy <a href="https://codepen.io/velvetstar/full/NrpqdR" target="_blank">here</a>!</p>
 
-<img src="Random-Quote-Generator.png" alt="Random Quote Generator">
+<img src="Random_Quote_Generator.png" alt="Random Quote Generator">
